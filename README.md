@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📊 Github Stats
-Mis estadísticas de GitHub reflejan mi pasión por el desarrollo. Aquí puedes ver mis contribuciones a lo largo del tiempo y los lenguajes que más utilizo.
+Aquí puedes ver mis estadísticas de GitHub y contribuciones a lo largo del tiempo y los lenguajes que más utilizo.
 
 <p align="center">
 <a href="https://github.com/AVS1508">
@@ -65,5 +65,3 @@ Aquí está un desglose detallado de mis habilidades técnicas, desde el desarro
 | | |
 
 ---
-
-Si necesitas algún ajuste adicional o alguna categoría específica, házmelo saber.
