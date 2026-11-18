@@ -10,11 +10,11 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📊 Github Stats
-Estas tarjetas se arman al abrir el perfil, consultando la API de GitHub. El gráfico de abajo es la actividad de los últimos 31 días.
+Las dos primeras tarjetas salen de un servidor propio y se actualizan cada 30 minutos. Incluyen la actividad privada. El gráfico de abajo es la actividad pública de los últimos 31 días.
 
 <p align="center">
-  <img height="180em" alt="Estadísticas de GitHub" src="https://github-stats-extended.vercel.app/api?username=manuelcastrobarinas&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600"/>
-  <img height="180em" alt="Lenguajes más usados" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manuelcastrobarinas&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=21600"/>
+  <img height="180em" alt="Estadísticas de GitHub" src="https://readme-stats-perfil.vercel.app/api?username=manuelcastrobarinas&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" alt="Lenguajes más usados" src="https://readme-stats-perfil.vercel.app/api/top-langs/?username=manuelcastrobarinas&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <p align="center">
   <img alt="Resumen actual de la cuenta" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelcastrobarinas&theme=tokyonight"/>
