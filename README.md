@@ -10,25 +10,21 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📊 Github Stats
-Aquí puedes ver mis estadísticas de GitHub y contribuciones a lo largo del tiempo y los lenguajes que más utilizo.
+Estas tarjetas se arman al abrir el perfil, consultando la API de GitHub. El gráfico de abajo es la actividad de los últimos 31 días.
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelcastrobarinas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelcastrobarinas&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em" alt="Estadísticas de GitHub" src="https://github-stats-extended.vercel.app/api?username=manuelcastrobarinas&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600"/>
+  <img height="180em" alt="Lenguajes más usados" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manuelcastrobarinas&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=21600"/>
 </p>
 <p align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=46537155" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46537155&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @manuelcastrobarinas" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=46537155&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+  <img alt="Resumen actual de la cuenta" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manuelcastrobarinas&theme=tokyonight"/>
+  <img alt="Detalle del perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelcastrobarinas&theme=tokyonight"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelcastrobarinas&theme=tokyonight" alt="mystreak"/>
+  <img alt="Actividad de los últimos 31 días" src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=manuelcastrobarinas&theme=tokyo-night&area=true&hide_border=true&custom_title=Actividad%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=manuelcastrobarinas&theme=tokyonight" alt="Racha de contribuciones"/>
 </p>
 
 ## GitHub Thropies 🏆 :
@@ -38,7 +34,7 @@ Aquí están algunos de los logros que he obtenido en GitHub a lo largo del tiem
 <br>
 <p align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=manuelcastrobarinas)](https://github.com/manuelcastrobarinas/github-profile-trophy)
+  [![trophy](https://trophy.ryglcloud.net/?username=manuelcastrobarinas&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
   
 </p>
 <br>
